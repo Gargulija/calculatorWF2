@@ -1,0 +1,22 @@
+C:\Users\Студент\Desktop\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Студент\Desktop\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Студент\Desktop\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Студент\Desktop\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Студент\Desktop\Крыжка Диана\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Студент\Desktop\Крыжка Диана\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Студент\Desktop\Крыжка Диана\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Студент\Desktop\Крыжка Диана\obj\Debug\WindowsFormsApp5.pdb
